@@ -110,8 +110,11 @@ color: black;
   justify-content: right;
   align-items: center;
 }
-
-
+@media (min-width: 600px) {
+.contact {
+  font-size: 1.5rem;
+}
+}
 
 #footer {
     background-color: #20507e ;
