@@ -39,9 +39,10 @@ color: black;
 }
 
 #projects {
-    background-color:#7e4320;
+    background-color:#457098;
     width: 100%;
     color: white;
+    border: 10px solid white;
 }
 
 
