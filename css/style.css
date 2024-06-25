@@ -12,8 +12,7 @@ color: black;
 }
 
 #hero {
-  background: linear-gradient(100deg, #a2d5ff, #dce2ee, #72b3ef);
-  background-size: 180% 180%;
+  background-color: #393E46;
   
   border: 0px solid #01204E;
 }
@@ -39,20 +38,24 @@ color: black;
 }
 
 #projects {
-    background-color:#457098;
+    background-color:#F8F9FA;
     width: 100%;
-    color: white;
+    color: black;
     border: 10px solid white;
 }
 
 
 .coollink {
-  color: #ffffff;
+  color: black;
   text-decoration: none;
   }
 
 .coollink:hover {
-  color: #b9b9b9d8;
+  color: #00ADB5;
+}
+
+#coollink:hover {
+  color: #00ADB5;
 }
 
 .container-mondrian {
@@ -121,7 +124,7 @@ color: black;
 }
 
 #footer {
-    background-color: #20507e ;
+    background-color: #222831 ;
     color: white;
 }
 
