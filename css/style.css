@@ -25,11 +25,14 @@ color: black;
 .title-card {
   background-color: white;
   padding-top: 10px;
-  
-  
+    }
+
+
+    @media (max-width: 600px) { 
+      .title-border {
+  border: 10px solid #393E46;
 }
-
-
+}
 
 .piccolo {
   display: flex;
